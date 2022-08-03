@@ -1,0 +1,9 @@
+public class main 
+{
+int height = 170;
+
+{if(height>160){
+    System.out.println("It has been accepted");}}
+}
+else(height<160){
+    System.out.println("not accepted");
